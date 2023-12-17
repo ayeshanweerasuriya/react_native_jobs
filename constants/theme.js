@@ -1,13 +1,15 @@
 const COLORS = {
   primary: "#312651",
-  secondary: "#444262",
-  tertiary: "#FF7754",
+  secondary: "#007acc", // Blue color
+  tertiary: "#007acc",
 
-  gray: "#83829A",
+  fontGrey: "#dbdbdb", // Color For main welcome message
+
+  gray: "#707070",
   gray2: "#C1C0C8",
 
-  white: "#F3F4F8",
-  lightWhite: "#FAFAFC",
+  white: "#ffffff",
+  lightWhite: "#1e1e1e",
 };
 
 const FONT = {
