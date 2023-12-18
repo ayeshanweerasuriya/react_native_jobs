@@ -2,6 +2,10 @@
 
 Welcome to our React Native Expo application designed to simplify job searches through seamless API integration. This application offers a wide range of features, allowing users to effortlessly discover specific job details by fetching data from relevant APIs.
 
+# Media Folder
+
+Explore the application's design through screenshots and a demonstration video available in the "media" folder. Additionally, an APK file is provided for hands-on testing.
+
 ## Known Issues and Pending Components
 
 - **Profile Picture Component:** The profile picture component in the top right corner is currently under development.
@@ -17,8 +21,8 @@ The application's visuals may not render as intended on Android devices. To addr
 
 To test the application:
 
-1. Register or log in at [Rapid API](#) (Clickable link).
-2. Subscribe to [JSearch By OpenWeb Ninja](#) to obtain the "X-RapidAPI-Key."
+1. Register or log in at [Rapid API](https://rapidapi.com/hub).
+2. Subscribe to [JSearch By OpenWeb Ninja](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/) to obtain the "X-RapidAPI-Key."
 
 ### Key Integration
 
@@ -29,7 +33,7 @@ Insert the obtained "X-RapidAPI-Key" values in the following files:
 
 ## Acknowledgments
 
-Huge thanks to [JavaScript Mastery](#) for their React Native Course Tutorial for Beginners. This tutorial has played a crucial role in expanding our knowledge and skills, consolidating numerous concepts in a single, informative video.
+Huge thanks to [JavaScript Mastery](https://youtube.com/@javascriptmastery?si=StSRM-GSsE24CjKb) for their React Native Course Tutorial for Beginners. This tutorial has played a crucial role in expanding our knowledge and skills, consolidating numerous concepts in a single, informative video.
 
 ## Enjoy Exploring!
 
