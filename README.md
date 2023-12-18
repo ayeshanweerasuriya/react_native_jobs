@@ -4,7 +4,7 @@ Welcome to my React Native Expo application designed to simplify job searches th
 
 # Media Folder
 
-Explore the application's design through screenshots and a demonstration video available in the "media" folder. Additionally, an APK file is provided for hands-on testing.
+Explore the application's design through screenshots and a demonstration video available in the "media" folder.
 
 ## Known Issues and Pending Components
 
