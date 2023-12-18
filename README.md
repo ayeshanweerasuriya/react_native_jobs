@@ -24,7 +24,7 @@ The application's visuals may not render as intended on Android devices. To addr
 To test the application:
 
 1. Register or log in at [Rapid API](https://rapidapi.com/hub).
-2. Subscribe to [JSearch By OpenWeb Ninja](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/) to obtain the "X-RapidAPI-Key."
+2. Subscribe to [JSearch By OpenWeb Ninja](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/) to obtain the "X-RapidAPI-Key" and "X-RapidAPI-Host".
 
 ### Key Integration
 
