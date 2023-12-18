@@ -28,8 +28,8 @@ To test the application:
 
 Insert the obtained "X-RapidAPI-Key" values in the following files:
 
-- `\react_native_jobs\hook\useFetch.js` <<image>>
-- `\react_native_jobs\app\search\[id].js` <<image>>
+- `\react_native_jobs\hook\useFetch.js` ![Use Fetch Image](media/useFetch.png)
+- `\react_native_jobs\app\search\[id].js` ![Search Image](media/search.png)
 
 ## Acknowledgments
 
