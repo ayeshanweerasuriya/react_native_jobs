@@ -1,6 +1,6 @@
 # React Native Expo Job Search App 🚀
 
-Welcome to our React Native Expo application designed to simplify job searches through seamless API integration. This application offers a wide range of features, allowing users to effortlessly discover specific job details by fetching data from relevant APIs.
+Welcome to my React Native Expo application designed to simplify job searches through seamless API integration. This application offers a wide range of features, allowing users to effortlessly discover specific job details by fetching data from relevant APIs.
 
 # Media Folder
 
