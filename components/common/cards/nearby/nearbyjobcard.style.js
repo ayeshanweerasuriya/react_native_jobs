@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     padding: SIZES.medium,
     borderRadius: SIZES.small,
-    backgroundColor: "#FFF",
+    backgroundColor: "#3e3e42",
     ...SHADOWS.medium,
     shadowColor: COLORS.white,
   },
@@ -33,12 +33,12 @@ const styles = StyleSheet.create({
   jobName: {
     fontSize: SIZES.medium,
     fontFamily: "DMBold",
-    color: COLORS.primary,
+    color: COLORS.fontGrey,
   },
   jobType: {
     fontSize: SIZES.small + 2,
     fontFamily: "DMRegular",
-    color: COLORS.gray,
+    color: COLORS.gray2,
     marginTop: 3,
     textTransform: "capitalize",
   },

@@ -1,5 +1,5 @@
 const COLORS = {
-  primary: "#312651",
+  primary: "#007acc", // Blue color
   secondary: "#007acc", // Blue color
   tertiary: "#007acc",
 
@@ -9,7 +9,7 @@ const COLORS = {
   gray2: "#C1C0C8",
 
   white: "#ffffff",
-  lightWhite: "#1e1e1e",
+  lightWhite: "#1e1e1e", // Theme Color
 };
 
 const FONT = {
@@ -29,24 +29,24 @@ const SIZES = {
 
 const SHADOWS = {
   small: {
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
-    elevation: 2,
+    // shadowColor: "#000",
+    // shadowOffset: {
+    //   width: 0,
+    //   height: 2,
+    // },
+    // shadowOpacity: 0.25,
+    // shadowRadius: 3.84,
+    // elevation: 2,
   },
   medium: {
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 5.84,
-    elevation: 5,
+    // shadowColor: "#000",
+    // shadowOffset: {
+    //   width: 0,
+    //   height: 2,
+    // },
+    // shadowOpacity: 0.25,
+    // shadowRadius: 5.84,
+    // elevation: 5,
   },
 };
 
