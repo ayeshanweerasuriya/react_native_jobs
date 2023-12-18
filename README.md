@@ -10,6 +10,8 @@ Explore the application's design through screenshots and a demonstration video a
 
 - **Profile Picture Component:** The profile picture component in the top right corner is currently under development.
 - **Menu Button:** The menu button in the top left corner is pending implementation.
+- **Show All Button:** The functionality for the "show all" button is yet to be implemented.
+- **Share Button:** The functionality for the "share" button is yet to be implemented.
 
 ### Note for Android Users
 
