@@ -1,14 +1,36 @@
-# Expo Router Example
+# React Native Expo Job Search App 🚀
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Welcome to our React Native Expo application designed to simplify job searches through seamless API integration. This application offers a wide range of features, allowing users to effortlessly discover specific job details by fetching data from relevant APIs.
 
-## 🚀 How to use
+## Known Issues and Pending Components
 
-```sh
-npx create-expo-app -e with-router
-```
+- **Profile Picture Component:** The profile picture component in the top right corner is currently under development.
+- **Menu Button:** The menu button in the top left corner is pending implementation.
 
-## 📝 Notes
+### Note for Android Users
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+The application's visuals may not render as intended on Android devices. To address this, certain elements are commented out in the file `\react_native_jobs\constants\theme.js`. Please review and modify as needed for optimal performance on Android.
+
+## Testing Instructions
+
+### Registration/Login
+
+To test the application:
+
+1. Register or log in at [Rapid API](#) (Clickable link).
+2. Subscribe to [JSearch By OpenWeb Ninja](#) to obtain the "X-RapidAPI-Key."
+
+### Key Integration
+
+Insert the obtained "X-RapidAPI-Key" values in the following files:
+
+- `\react_native_jobs\hook\useFetch.js` <<image>>
+- `\react_native_jobs\app\search\[id].js` <<image>>
+
+## Acknowledgments
+
+Huge thanks to [JavaScript Mastery](#) for their React Native Course Tutorial for Beginners. This tutorial has played a crucial role in expanding our knowledge and skills, consolidating numerous concepts in a single, informative video.
+
+## Enjoy Exploring!
+
+Feel free to explore and test the application. Your feedback is highly appreciated.
