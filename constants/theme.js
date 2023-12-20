@@ -27,7 +27,7 @@ const SIZES = {
   xxLarge: 32,
 };
 
-const SHADOWS = {
+const SHADOWS = { // For Android and Ios
   small: {
     // shadowColor: "#000",
     // shadowOffset: {
