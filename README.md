@@ -40,7 +40,7 @@ Insert the obtained "X-RapidAPI-Key" values in the following files:
 
 ## Acknowledgments
 
-Huge thanks to [JavaScript Mastery](https://youtube.com/@javascriptmastery?si=StSRM-GSsE24CjKb) for their React Native Course Tutorial for Beginners. This tutorial has played a crucial role in expanding our knowledge and skills, consolidating numerous concepts in a single, informative video.
+Huge thanks to [JavaScript Mastery](https://youtube.com/@javascriptmastery?si=StSRM-GSsE24CjKb) for their React Native Course Tutorial for Beginners. This tutorial has played a crucial role in expanding knowledge and skills, consolidating numerous concepts in a single, informative video.
 
 ## Enjoy Exploring!
 
